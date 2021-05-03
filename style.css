@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    font-weight: bold;
+}
+
+#menu {
+    background-color: black;
+    width: 1894px;
+    height: 50px;
+    position: fixed;
+}
+
+ul {
+    list-style: none;
+    font-family: cursive;
+    text-align: center;
+    top: 10px;
+    right: 30px;
+    cursor: context-menu;
+    color: black;
+    font-size: 16px;
+}
+
+li {
+    display: inline;
+    color: red;
+}
+
+li:hover {
+    font-size: 23px;
+    text-decoration-style: dashed;
+    text-decoration-color: red;
+}
+
+#image_1 {
+    width: auto;
+    height: 700px;
+}
+
+#ii {
+    width:175px;
+    height: 200px;
+}
+html {
+    background-repeat: no-repeat;
+}
